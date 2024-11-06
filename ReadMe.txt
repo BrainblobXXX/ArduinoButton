@@ -1,3 +1,5 @@
+This is project to convert arduino serial button click to sending POST with {state:1}/{state:0} toggling
+
 1. ButtonSketch - arduino scetch for button.
 2. Файл pyButton - python script for serial to POST conversion.
 3. Файо pyTestButton - python script for testing to POST with server. 
